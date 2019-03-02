@@ -1,8 +1,6 @@
 
 extractDatabase <- function(database.fasta) {
 
-   library(seqinr);
-
    database <- read.fasta(file=database.fasta, seqtype="AA", as.string = FALSE)
 
    ## amino acid weight vector
