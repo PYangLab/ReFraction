@@ -41,3 +41,10 @@ output$deterministic.protein.table[1:2,]
 # output peptide assignment after applying ReFraction
 output$peptide.ReFraction.table[1:2,]
 ```
+
+#### Reference
+Yang P, Zheng X, Jayaswal V, Hu G, Yang JYH, Jothi R (2015) Knowledge-Based Analysis for 
+Detecting Key Signaling Events from Time-Series Phosphoproteomics Data. PLoS Comput Biol 11(8): e1004403. [fulltext](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004403)
+
+Pengyi Yang, Sean J Humphrey, Daniel J Fazakerley, Matthew J Prior, Guang Yang, David E James, Jean YeeHwa Yang (2012) Re-fraction: a machine learning approach for deterministic identification of protein homologues and splice variants in large-scale MS-based proteomics.
+Journal of Proteome Research 11(5): 3035-3045. [fulltext](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.718.8740&rep=rep1&type=pdf)
