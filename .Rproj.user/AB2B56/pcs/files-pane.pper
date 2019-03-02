@@ -1,6 +1,10 @@
 {
-    "path" : "~/Dropbox/Research/code/R_packages/ReFraction/R",
+    "path" : "~/Dropbox/Research/code/R_packages/ReFraction/man",
     "sortOrder" : [
+        {
+            "ascending" : false,
+            "columnIndex" : 4
+        },
         {
             "ascending" : true,
             "columnIndex" : 2
