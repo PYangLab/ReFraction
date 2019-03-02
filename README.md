@@ -10,7 +10,7 @@ ReFraction is applicable when SDS-PAGE is used for protein separation prior to t
 Install ReFraction as below:
 
 ```r
-devtools::install_github("PengyiYang/Re-Fraction")
+devtools::install_github("PengyiYang/ReFraction")
 ```
 
 
