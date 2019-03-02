@@ -10,7 +10,7 @@ ReFraction is applicable when SDS-PAGE is used for protein separation prior to t
 Install ReFraction as below:
 
 ```r
-devtools::install_github("PengyiYang/ReFraction")
+devtools::install_github("PengyiYang/Re-Fraction")
 ```
 
 
@@ -19,6 +19,7 @@ devtools::install_github("PengyiYang/ReFraction")
 Step 1. Read in peptide table. Note that the peptide table should contain "Slice" information from your SDS-PAGE. This should be
 denoted as "Slice.1	Slice.2	...".
 ```r
+library(ReFraction)
 peptide.tab <- read.delim("data/Maxquant_peptide_table.txt")
 peptide.tab[1:2,]
 ```

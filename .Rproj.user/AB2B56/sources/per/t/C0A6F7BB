@@ -1,21 +1,21 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1551499355145.000,
+    "created" : 1551499307655.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
-    "id" : "D26FEA3C",
+    "hash" : "581504646",
+    "id" : "C0A6F7BB",
     "lastKnownWriteTime" : 1514429951,
     "last_content_update" : 1514429951,
-    "path" : "~/Dropbox/Research/code/R_packages/ReFraction/R/Re-Fraction.R",
-    "project_path" : "R/Re-Fraction.R",
+    "path" : "~/Dropbox/Research/code/R_packages/ReFraction/R/sampleSelector.R",
+    "project_path" : "R/sampleSelector.R",
     "properties" : {
-        "cursorPosition" : "18,3",
+        "cursorPosition" : "43,23",
         "scrollLine" : "0"
     },
-    "relative_order" : 5,
+    "relative_order" : 4,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "r_source"
