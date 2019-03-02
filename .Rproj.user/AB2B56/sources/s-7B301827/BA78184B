@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551502245546.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "BA78184B",
+    "lastKnownWriteTime" : 1514429951,
+    "last_content_update" : 1514429951,
+    "path" : "~/Dropbox/Research/code/R_packages/ReFraction/R/batchClassify.R",
+    "project_path" : "R/batchClassify.R",
+    "properties" : {
+        "cursorPosition" : "11,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 11,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

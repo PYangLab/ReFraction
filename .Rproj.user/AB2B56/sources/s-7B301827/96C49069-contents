@@ -1485,7 +1485,7 @@ computeProteinPI <- function(keyAA, tab){
    pHprev <- 0.0;         #of finding the solution
    pHnext <- 14.0;        #0-14 is possible pH range
    X <- 0.0;
-   E <- 0.01           #epsilon means precision [pI <- pH ? E]
+   E <- 0.01;           #epsilon means precision [pI <- pH ? E]
    temp <- 0.0;
    tabl <- 650;
 

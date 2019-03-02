@@ -1,21 +1,21 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1551499307655.000,
+    "created" : 1551502190514.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "581504646",
-    "id" : "C0A6F7BB",
+    "hash" : "0",
+    "id" : "D2CDA6FA",
     "lastKnownWriteTime" : 1514429951,
     "last_content_update" : 1514429951,
-    "path" : "~/Dropbox/Research/code/R_packages/ReFraction/R/sampleSelector.R",
-    "project_path" : "R/sampleSelector.R",
+    "path" : "~/Dropbox/Research/code/R_packages/ReFraction/R/ReFraction.R",
+    "project_path" : "R/ReFraction.R",
     "properties" : {
-        "cursorPosition" : "43,23",
-        "scrollLine" : "0"
+        "cursorPosition" : "27,25",
+        "scrollLine" : "19"
     },
-    "relative_order" : 4,
+    "relative_order" : 6,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "r_source"

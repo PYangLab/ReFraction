@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2141263268",
+    "hash" : "0",
     "id" : "8EA323A8",
     "lastKnownWriteTime" : 1551499917,
     "last_content_update" : 1551499917149,
     "path" : "~/Dropbox/Research/code/R_packages/ReFraction/DESCRIPTION",
     "project_path" : "DESCRIPTION",
     "properties" : {
-        "cursorPosition" : "11,10",
-        "scrollLine" : "1"
+        "cursorPosition" : "17,18",
+        "scrollLine" : "3"
     },
     "relative_order" : 1,
     "source_on_save" : false,

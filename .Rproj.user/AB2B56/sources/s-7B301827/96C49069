@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2634681606",
+    "hash" : "0",
     "id" : "96C49069",
-    "lastKnownWriteTime" : 1551498691,
-    "last_content_update" : 1551498691571,
+    "lastKnownWriteTime" : 1551502530,
+    "last_content_update" : 1551502530572,
     "path" : "~/Dropbox/Research/code/R_packages/ReFraction/R/extractDatabase.R",
     "project_path" : "R/extractDatabase.R",
     "properties" : {
-        "cursorPosition" : "1487,23",
+        "cursorPosition" : "3,19",
         "scrollLine" : "0"
     },
     "relative_order" : 2,

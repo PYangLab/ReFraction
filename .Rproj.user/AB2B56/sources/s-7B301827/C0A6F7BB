@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551499307655.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C0A6F7BB",
+    "lastKnownWriteTime" : 1514429951,
+    "last_content_update" : 1551502237125,
+    "path" : "~/Dropbox/Research/code/R_packages/ReFraction/R/sampleSelector.R",
+    "project_path" : "R/sampleSelector.R",
+    "properties" : {
+        "cursorPosition" : "8,60",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551502241362.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4E14D36D",
+    "lastKnownWriteTime" : 1514429951,
+    "last_content_update" : 1514429951,
+    "path" : "~/Dropbox/Research/code/R_packages/ReFraction/R/determineProteinID.R",
+    "project_path" : "R/determineProteinID.R",
+    "properties" : {
+        "cursorPosition" : "10,55",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 10,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
